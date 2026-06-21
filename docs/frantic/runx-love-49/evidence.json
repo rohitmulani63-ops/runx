@@ -1,0 +1,16 @@
+{
+  "claim_type": "public_repo_note",
+  "public_url": "https://github.com/rohitmulani63-ops/runx/tree/frantic/runx-love-49-20260622/docs/frantic/runx-love-49",
+  "runx_link_found": true,
+  "runx_links": [
+    "https://github.com/runxhq/runx",
+    "https://runx.ai",
+    "https://github.com/runxhq/runx/pull/107"
+  ],
+  "summary": "Published a public README note explaining runx as a portable, receipt-oriented skill workflow, with a concrete contribution example.",
+  "audience": "future runx contributors, Frantic reviewers, and operators evaluating agent skill workflows",
+  "venue": "public GitHub fork branch",
+  "why_allowed": "The artifact is in the contributor's own public fork, links to the real project, and does not spam another community or request reciprocal stars.",
+  "not_star_proof": true,
+  "private_data_included": false
+}
