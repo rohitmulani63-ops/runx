@@ -11,6 +11,24 @@
   "audience": "future runx contributors, Frantic reviewers, and operators evaluating agent skill workflows",
   "venue": "public GitHub fork branch",
   "why_allowed": "The artifact is in the contributor's own public fork, links to the real project, and does not spam another community or request reciprocal stars.",
+  "observations": [
+    {
+      "id": "public_url_reachable",
+      "finding": "The public URL is a GitHub branch path that loads without private access."
+    },
+    {
+      "id": "runx_project_linked",
+      "finding": "The README links to the canonical runx GitHub repository and the runx website."
+    },
+    {
+      "id": "specific_support_action",
+      "finding": "The README explains runx using a concrete contribution example instead of generic promotion."
+    },
+    {
+      "id": "venue_allowed",
+      "finding": "The support action is published in the contributor's own fork, avoiding off-topic posting in another community."
+    }
+  ],
   "not_star_proof": true,
   "private_data_included": false
 }
